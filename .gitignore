@@ -1,0 +1,32 @@
+# Compiled data #
+#################
+*.a
+*.mod
+*.o
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+bin/
+ensight-3D
+monitor
+grid
+data.*
+part.*
+ibm.*
+levelset.*
+part
+data
+ibm
+
+# Don't ignore these files
+!src/grid/
+!src/monitor/
+!/src/ibm/
+
+# Edited Makefile.in #
+######################
+Makefile.in

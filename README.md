@@ -1,1 +1,1 @@
-# ref_code_01
+jCODE is a high-performance Fortran-based multiphase/multi-physics flow solver developed and maintained by the Capecelatro Research Group at the University of Michigan. The code is capable of solving the multi-component compressible Navier-Stokes equations on structured curvilinear meshes using a class of high-order energy-stable finite difference operators. It features a range of models including Lagrangian particle tracking, combustion mechanisms, immersed boundaries, and discrete adjoint-based sensitivity.
